@@ -1,5 +1,5 @@
 # katharinegillis/vcxsrv
-Just a bunch of dotfiles.
+Install and configure VcxSrv.
 
 ## Install
 Clone and symlink or install with [ellipsis][ellipsis]:
